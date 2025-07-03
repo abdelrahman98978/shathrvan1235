@@ -1,12 +1,1 @@
----
-title: shathvan
-emoji: 🐳
-colorFrom: red
-colorTo: blue
-sdk: static
-pinned: false
-tags:
-  - deepsite
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+جميع  الحقوق محفوظة لمجموعة شذرفان
